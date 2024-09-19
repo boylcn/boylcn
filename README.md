@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, I'm Onur Yalcin. I am a detail-oriented and highly motivated web developer with strong experience and understanding of modern web development principles. I am proficient in front-end technologies, including React, React Native, Next.js, and Nuxt.js. On the back-end, I have experience working with Node.js, Express.js, and databases such as PostgreSQL and MongoDB.<br><br>I possess knowledge and experience in Big Data management and security. I excel at delivering high-quality projects under tight deadlines and collaborating effectively with cross-functional teams. I am committed to continuous learning and staying up-to-date with the latest industry trends. Currently, I am also enhancing my skills in Python.</p>
+<p align="left">Hello, I'm Onur Yalcin. I am a detail-oriented and highly motivated web developer with strong experience and understanding of modern web development principles. I am proficient in front-end technologies, including React, React Native, Next.js, and Nuxt.js. On the back-end, I have experience working with Node.js, Express.js, and databases such as Mysql, PostgreSQL and MongoDB.<br><br>I possess knowledge and experience in Big Data management and security. I excel at delivering high-quality projects under tight deadlines and collaborating effectively with cross-functional teams. I am committed to continuous learning and staying up-to-date with the latest industry trends. Currently, I am also enhancing my skills in Python. I started learning Swift and coding in September.</p>
 
 ###
 
